@@ -12,7 +12,7 @@ Extension for changing any words to your own on roblox website.
 4. Turn on the extension and enjoy!
 
 **You can edit words here in the content.js file:**
-```
+```js
 const REPLACEMENTS = {
   'connection': 'friend',
   'connections': 'friends'
