@@ -1,4 +1,7 @@
-![logo](https://github.com/4d3r/rbx-text-extension/blob/main/src/icon.png?raw=true)
+<img src="https://github.com/4d3r/rbx-text-extension/blob/main/src/icon.png?raw=true"
+  width="128"
+  height="128"
+  style="float:left;">
 # Roblox Text Extension
 Extension for changing any words to your own on roblox website.
 
