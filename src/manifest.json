@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Roblox Text Extension",
+    "version": "1.0",
+    "description": "Extension for changing any words to your own on roblox website.",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.roblox.com/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
